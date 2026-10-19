@@ -1,0 +1,17 @@
+{
+  "name": "TennisHub HK",
+  "short_name": "TennisHub",
+  "description": "香港網球社群 - 搵場、約波、結識波友",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#2E7D32",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
